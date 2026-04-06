@@ -1,0 +1,566 @@
+﻿[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< personal:FinanceApplication >---------------------
+[INFO] Building FinanceApplication 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.5.0:clean (default-clean) @ FinanceApplication ---
+[INFO] Deleting C:\Users\sagar\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\FinanceApplication\target
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ FinanceApplication ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 0 resource from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.14.1:compile (default-compile) @ FinanceApplication ---
+[INFO] Recompiling the module because of changed source code.
+[INFO] Compiling 20 source files with javac [debug parameters release 17] to target\classes
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ FinanceApplication ---
+[INFO] skip non existing resourceDirectory C:\Users\sagar\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\FinanceApplication\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.14.1:testCompile (default-testCompile) @ FinanceApplication ---
+[INFO] Recompiling the module because of changed dependency.
+[INFO] Compiling 1 source file with javac [debug parameters release 17] to target\test-classes
+[INFO] 
+[INFO] --- surefire:3.5.5:test (default-test) @ FinanceApplication ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/3.5.5/surefire-api-3.5.5.jar
+Progress (1): 0.9/174 kB
+Progress (1): 2.3/174 kB
+Progress (1): 3.6/174 kB
+Progress (1): 5.0/174 kB
+Progress (1): 6.4/174 kB
+Progress (1): 7.7/174 kB
+Progress (1): 9.1/174 kB
+Progress (1): 10/174 kB 
+Progress (1): 12/174 kB
+Progress (1): 13/174 kB
+Progress (1): 15/174 kB
+Progress (1): 16/174 kB
+Progress (1): 17/174 kB
+Progress (1): 18/174 kB
+Progress (1): 20/174 kB
+Progress (1): 21/174 kB
+Progress (1): 23/174 kB
+Progress (1): 24/174 kB
+Progress (1): 25/174 kB
+Progress (1): 27/174 kB
+Progress (1): 28/174 kB
+Progress (1): 29/174 kB
+Progress (1): 31/174 kB
+Progress (1): 32/174 kB
+Progress (1): 33/174 kB
+Progress (1): 35/174 kB
+Progress (1): 36/174 kB
+Progress (1): 38/174 kB
+Progress (1): 39/174 kB
+Progress (1): 40/174 kB
+Progress (1): 42/174 kB
+Progress (1): 43/174 kB
+Progress (1): 44/174 kB
+Progress (1): 46/174 kB
+Progress (1): 47/174 kB
+Progress (1): 49/174 kB
+Progress (1): 50/174 kB
+Progress (1): 51/174 kB
+Progress (1): 53/174 kB
+Progress (1): 54/174 kB
+Progress (1): 55/174 kB
+Progress (1): 60/174 kB
+Progress (1): 64/174 kB
+Progress (1): 68/174 kB
+Progress (1): 72/174 kB
+Progress (1): 77/174 kB
+Progress (1): 81/174 kB
+Progress (1): 85/174 kB
+Progress (1): 89/174 kB
+Progress (1): 93/174 kB
+Progress (1): 98/174 kB
+Progress (1): 102/174 kB
+Progress (1): 106/174 kB
+Progress (1): 110/174 kB
+Progress (1): 115/174 kB
+Progress (1): 119/174 kB
+Progress (1): 123/174 kB
+Progress (1): 127/174 kB
+Progress (1): 131/174 kB
+Progress (1): 136/174 kB
+Progress (1): 140/174 kB
+Progress (1): 144/174 kB
+Progress (1): 147/174 kB
+Progress (1): 151/174 kB
+Progress (1): 155/174 kB
+Progress (1): 159/174 kB
+Progress (1): 164/174 kB
+Progress (1): 168/174 kB
+Progress (1): 172/174 kB
+Progress (1): 174 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/3.5.5/surefire-api-3.5.5.jar (174 kB at 159 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/3.5.5/surefire-logger-api-3.5.5.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-shared-utils/3.5.5/surefire-shared-utils-3.5.5.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/3.5.5/maven-surefire-common-3.5.5.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-extensions-api/3.5.5/surefire-extensions-api-3.5.5.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/3.5.5/surefire-booter-3.5.5.jar
+Progress (1): 4.2/316 kB
+Progress (1): 8.2/316 kB
+Progress (1): 12/316 kB 
+Progress (1): 17/316 kB
+Progress (1): 21/316 kB
+Progress (1): 25/316 kB
+Progress (1): 29/316 kB
+Progress (1): 33/316 kB
+Progress (1): 37/316 kB
+Progress (1): 41/316 kB
+Progress (1): 58/316 kB
+Progress (1): 66/316 kB
+Progress (1): 82/316 kB
+Progress (1): 98/316 kB
+Progress (1): 115/316 kB
+Progress (1): 131/316 kB
+Progress (1): 147/316 kB
+Progress (1): 164/316 kB
+Progress (1): 180/316 kB
+Progress (1): 197/316 kB
+Progress (1): 213/316 kB
+Progress (2): 213/316 kB | 0/3.0 MB
+Progress (2): 213/316 kB | 0/3.0 MB
+Progress (2): 229/316 kB | 0/3.0 MB
+Progress (2): 229/316 kB | 0/3.0 MB
+Progress (2): 229/316 kB | 0/3.0 MB
+Progress (2): 229/316 kB | 0/3.0 MB
+Progress (2): 229/316 kB | 0/3.0 MB
+Progress (2): 229/316 kB | 0/3.0 MB
+Progress (2): 229/316 kB | 0/3.0 MB
+Progress (2): 229/316 kB | 0/3.0 MB
+Progress (2): 229/316 kB | 0/3.0 MB
+Progress (2): 229/316 kB | 0/3.0 MB
+Progress (2): 229/316 kB | 0/3.0 MB
+Progress (2): 229/316 kB | 0/3.0 MB
+Progress (3): 229/316 kB | 0/3.0 MB | 0.9/26 kB
+Progress (3): 229/316 kB | 0/3.0 MB | 0.9/26 kB
+Progress (3): 229/316 kB | 0/3.0 MB | 2.3/26 kB
+Progress (3): 229/316 kB | 0/3.0 MB | 2.3/26 kB
+Progress (3): 229/316 kB | 0/3.0 MB | 3.6/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 3.6/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 3.6/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 5.0/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 5.0/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 5.0/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 5.0/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 6.4/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 6.4/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 7.7/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 7.7/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 9.1/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 9.1/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 9.1/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 10/26 kB 
+Progress (3): 246/316 kB | 0/3.0 MB | 10/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 12/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 12/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 13/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 13/26 kB
+Progress (3): 246/316 kB | 0/3.0 MB | 15/26 kB
+Progress (3): 262/316 kB | 0/3.0 MB | 15/26 kB
+Progress (3): 262/316 kB | 0/3.0 MB | 15/26 kB
+Progress (3): 262/316 kB | 0/3.0 MB | 16/26 kB
+Progress (3): 262/316 kB | 0/3.0 MB | 16/26 kB
+Progress (3): 262/316 kB | 0/3.0 MB | 17/26 kB
+Progress (3): 262/316 kB | 0/3.0 MB | 18/26 kB
+Progress (3): 262/316 kB | 0/3.0 MB | 18/26 kB
+Progress (3): 262/316 kB | 0/3.0 MB | 20/26 kB
+Progress (3): 262/316 kB | 0/3.0 MB | 21/26 kB
+Progress (4): 262/316 kB | 0/3.0 MB | 21/26 kB | 0.9/123 kB
+Progress (4): 262/316 kB | 0/3.0 MB | 22/26 kB | 0.9/123 kB
+Progress (4): 262/316 kB | 0/3.0 MB | 22/26 kB | 2.3/123 kB
+Progress (4): 262/316 kB | 0/3.0 MB | 24/26 kB | 2.3/123 kB
+Progress (4): 262/316 kB | 0/3.0 MB | 24/26 kB | 3.6/123 kB
+Progress (4): 262/316 kB | 0/3.0 MB | 25/26 kB | 3.6/123 kB
+Progress (4): 262/316 kB | 0/3.0 MB | 26 kB | 3.6/123 kB   
+Progress (4): 262/316 kB | 0/3.0 MB | 26 kB | 5.0/123 kB
+Progress (4): 262/316 kB | 0/3.0 MB | 26 kB | 6.4/123 kB
+Progress (4): 262/316 kB | 0/3.0 MB | 26 kB | 6.4/123 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 6.4/123 kB | 0.9/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 7.7/123 kB | 0.9/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 7.7/123 kB | 2.3/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 9.1/123 kB | 2.3/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 9.1/123 kB | 3.6/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 9.1/123 kB | 3.6/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 10/123 kB | 3.6/14 kB 
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 10/123 kB | 5.0/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 12/123 kB | 5.0/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 12/123 kB | 5.0/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 13/123 kB | 5.0/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 13/123 kB | 6.4/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 15/123 kB | 6.4/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 15/123 kB | 6.4/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 15/123 kB | 7.7/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 16/123 kB | 7.7/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 16/123 kB | 7.7/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 16/123 kB | 9.1/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 17/123 kB | 9.1/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 17/123 kB | 10/14 kB 
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 19/123 kB | 10/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 19/123 kB | 10/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 20/123 kB | 10/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 20/123 kB | 12/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 21/123 kB | 12/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 21/123 kB | 12/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 21/123 kB | 13/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 23/123 kB | 13/14 kB
+Progress (5): 262/316 kB | 0/3.0 MB | 26 kB | 23/123 kB | 14 kB   
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 23/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 24/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 24/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 26/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 26/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 27/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 28/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 30/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 30/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 31/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 31/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 32/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 34/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 35/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 35/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 36/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 38/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 38/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 39/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 41/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 42/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 43/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 43/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 45/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 46/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 47/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 49/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 50/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 52/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 53/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 54/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 54/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 56/123 kB | 14 kB
+Progress (5): 262/316 kB | 0.1/3.0 MB | 26 kB | 56/123 kB | 14 kB
+                                                                 
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/3.5.5/surefire-logger-api-3.5.5.jar (14 kB at 41 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-extensions-spi/3.5.5/surefire-extensions-spi-3.5.5.jar
+Progress (4): 262/316 kB | 0.1/3.0 MB | 26 kB | 60/123 kB
+Progress (4): 262/316 kB | 0.1/3.0 MB | 26 kB | 60/123 kB
+Progress (4): 262/316 kB | 0.1/3.0 MB | 26 kB | 64/123 kB
+Progress (4): 262/316 kB | 0.1/3.0 MB | 26 kB | 64/123 kB
+Progress (4): 262/316 kB | 0.1/3.0 MB | 26 kB | 64/123 kB
+Progress (4): 262/316 kB | 0.1/3.0 MB | 26 kB | 68/123 kB
+Progress (4): 279/316 kB | 0.1/3.0 MB | 26 kB | 68/123 kB
+Progress (4): 279/316 kB | 0.1/3.0 MB | 26 kB | 68/123 kB
+Progress (4): 279/316 kB | 0.1/3.0 MB | 26 kB | 73/123 kB
+Progress (4): 279/316 kB | 0.1/3.0 MB | 26 kB | 73/123 kB
+Progress (4): 279/316 kB | 0.1/3.0 MB | 26 kB | 77/123 kB
+Progress (4): 279/316 kB | 0.1/3.0 MB | 26 kB | 77/123 kB
+Progress (4): 279/316 kB | 0.1/3.0 MB | 26 kB | 81/123 kB
+Progress (4): 279/316 kB | 0.1/3.0 MB | 26 kB | 85/123 kB
+Progress (4): 279/316 kB | 0.1/3.0 MB | 26 kB | 85/123 kB
+Progress (4): 295/316 kB | 0.1/3.0 MB | 26 kB | 85/123 kB
+Progress (4): 295/316 kB | 0.1/3.0 MB | 26 kB | 89/123 kB
+Progress (4): 295/316 kB | 0.1/3.0 MB | 26 kB | 89/123 kB
+Progress (4): 295/316 kB | 0.1/3.0 MB | 26 kB | 94/123 kB
+Progress (4): 295/316 kB | 0.1/3.0 MB | 26 kB | 94/123 kB
+Progress (4): 295/316 kB | 0.1/3.0 MB | 26 kB | 98/123 kB
+Progress (4): 295/316 kB | 0.1/3.0 MB | 26 kB | 98/123 kB
+Progress (4): 295/316 kB | 0.1/3.0 MB | 26 kB | 98/123 kB
+Progress (4): 295/316 kB | 0.1/3.0 MB | 26 kB | 103/123 kB
+Progress (4): 295/316 kB | 0.1/3.0 MB | 26 kB | 103/123 kB
+Progress (4): 311/316 kB | 0.1/3.0 MB | 26 kB | 103/123 kB
+Progress (4): 311/316 kB | 0.1/3.0 MB | 26 kB | 103/123 kB
+Progress (4): 311/316 kB | 0.1/3.0 MB | 26 kB | 107/123 kB
+Progress (4): 311/316 kB | 0.1/3.0 MB | 26 kB | 107/123 kB
+                                                          
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-extensions-api/3.5.5/surefire-extensions-api-3.5.5.jar (26 kB at 76 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/1.5.2/plexus-java-1.5.2.jar
+Progress (3): 311/316 kB | 0.1/3.0 MB | 111/123 kB
+Progress (3): 316 kB | 0.1/3.0 MB | 111/123 kB    
+Progress (3): 316 kB | 0.1/3.0 MB | 111/123 kB
+Progress (3): 316 kB | 0.1/3.0 MB | 115/123 kB
+Progress (3): 316 kB | 0.1/3.0 MB | 119/123 kB
+Progress (3): 316 kB | 0.1/3.0 MB | 123 kB    
+Progress (3): 316 kB | 0.1/3.0 MB | 123 kB
+Progress (3): 316 kB | 0.1/3.0 MB | 123 kB
+Progress (3): 316 kB | 0.1/3.0 MB | 123 kB
+Progress (3): 316 kB | 0.2/3.0 MB | 123 kB
+Progress (3): 316 kB | 0.2/3.0 MB | 123 kB
+Progress (3): 316 kB | 0.2/3.0 MB | 123 kB
+Progress (3): 316 kB | 0.2/3.0 MB | 123 kB
+Progress (3): 316 kB | 0.2/3.0 MB | 123 kB
+Progress (3): 316 kB | 0.2/3.0 MB | 123 kB
+Progress (3): 316 kB | 0.2/3.0 MB | 123 kB
+                                          
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/3.5.5/surefire-booter-3.5.5.jar (123 kB at 358 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.9.1/asm-9.9.1.jar
+Progress (2): 316 kB | 0.2/3.0 MB
+Progress (2): 316 kB | 0.2/3.0 MB
+Progress (2): 316 kB | 0.2/3.0 MB
+Progress (2): 316 kB | 0.2/3.0 MB
+Progress (2): 316 kB | 0.2/3.0 MB
+Progress (2): 316 kB | 0.2/3.0 MB
+Progress (2): 316 kB | 0.2/3.0 MB
+Progress (2): 316 kB | 0.2/3.0 MB
+Progress (2): 316 kB | 0.2/3.0 MB
+Progress (2): 316 kB | 0.2/3.0 MB
+Progress (2): 316 kB | 0.2/3.0 MB
+Progress (2): 316 kB | 0.2/3.0 MB
+Progress (2): 316 kB | 0.3/3.0 MB
+Progress (2): 316 kB | 0.3/3.0 MB
+Progress (2): 316 kB | 0.3/3.0 MB
+Progress (2): 316 kB | 0.3/3.0 MB
+Progress (2): 316 kB | 0.3/3.0 MB
+Progress (2): 316 kB | 0.3/3.0 MB
+Progress (3): 316 kB | 0.3/3.0 MB | 0.9/8.2 kB
+Progress (3): 316 kB | 0.3/3.0 MB | 2.3/8.2 kB
+Progress (3): 316 kB | 0.3/3.0 MB | 3.6/8.2 kB
+Progress (3): 316 kB | 0.3/3.0 MB | 5.0/8.2 kB
+Progress (3): 316 kB | 0.3/3.0 MB | 6.4/8.2 kB
+Progress (3): 316 kB | 0.3/3.0 MB | 7.7/8.2 kB
+Progress (3): 316 kB | 0.3/3.0 MB | 8.2 kB    
+Progress (3): 316 kB | 0.3/3.0 MB | 8.2 kB
+Progress (3): 316 kB | 0.4/3.0 MB | 8.2 kB
+Progress (3): 316 kB | 0.4/3.0 MB | 8.2 kB
+Progress (3): 316 kB | 0.4/3.0 MB | 8.2 kB
+Progress (3): 316 kB | 0.4/3.0 MB | 8.2 kB
+                                          
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-extensions-spi/3.5.5/surefire-extensions-spi-3.5.5.jar (8.2 kB at 23 kB/s)
+Progress (2): 316 kB | 0.4/3.0 MB
+Progress (2): 316 kB | 0.4/3.0 MB
+Progress (2): 316 kB | 0.5/3.0 MB
+Progress (2): 316 kB | 0.5/3.0 MB
+Progress (2): 316 kB | 0.5/3.0 MB
+Progress (2): 316 kB | 0.5/3.0 MB
+Progress (2): 316 kB | 0.5/3.0 MB
+                                 
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/3.5.5/maven-surefire-common-3.5.5.jar (316 kB at 894 kB/s)
+Progress (1): 0.5/3.0 MB
+Progress (1): 0.6/3.0 MB
+Progress (1): 0.6/3.0 MB
+Progress (1): 0.6/3.0 MB
+Progress (1): 0.6/3.0 MB
+Progress (1): 0.6/3.0 MB
+Progress (1): 0.6/3.0 MB
+Progress (1): 0.7/3.0 MB
+Progress (1): 0.7/3.0 MB
+Progress (1): 0.7/3.0 MB
+Progress (1): 0.7/3.0 MB
+Progress (1): 0.7/3.0 MB
+Progress (1): 0.7/3.0 MB
+Progress (2): 0.7/3.0 MB | 3.8/126 kB
+Progress (2): 0.8/3.0 MB | 3.8/126 kB
+Progress (2): 0.8/3.0 MB | 8.0/126 kB
+Progress (2): 0.8/3.0 MB | 8.0/126 kB
+Progress (2): 0.8/3.0 MB | 12/126 kB 
+Progress (2): 0.8/3.0 MB | 12/126 kB
+Progress (2): 0.8/3.0 MB | 16/126 kB
+Progress (2): 0.8/3.0 MB | 21/126 kB
+Progress (2): 0.8/3.0 MB | 21/126 kB
+Progress (2): 0.8/3.0 MB | 25/126 kB
+Progress (2): 0.8/3.0 MB | 28/126 kB
+Progress (2): 0.8/3.0 MB | 28/126 kB
+Progress (2): 0.8/3.0 MB | 32/126 kB
+Progress (2): 0.8/3.0 MB | 32/126 kB
+Progress (2): 0.9/3.0 MB | 32/126 kB
+Progress (2): 0.9/3.0 MB | 36/126 kB
+Progress (2): 0.9/3.0 MB | 36/126 kB
+Progress (2): 0.9/3.0 MB | 41/126 kB
+Progress (2): 0.9/3.0 MB | 41/126 kB
+Progress (2): 0.9/3.0 MB | 45/126 kB
+Progress (2): 0.9/3.0 MB | 45/126 kB
+Progress (2): 0.9/3.0 MB | 49/126 kB
+Progress (2): 0.9/3.0 MB | 53/126 kB
+Progress (2): 0.9/3.0 MB | 53/126 kB
+Progress (2): 0.9/3.0 MB | 58/126 kB
+Progress (2): 0.9/3.0 MB | 58/126 kB
+Progress (2): 0.9/3.0 MB | 62/126 kB
+Progress (2): 0.9/3.0 MB | 62/126 kB
+Progress (2): 1.0/3.0 MB | 62/126 kB
+Progress (2): 1.0/3.0 MB | 66/126 kB
+Progress (2): 1.0/3.0 MB | 66/126 kB
+Progress (2): 1.0/3.0 MB | 70/126 kB
+Progress (2): 1.0/3.0 MB | 74/126 kB
+Progress (2): 1.0/3.0 MB | 74/126 kB
+Progress (2): 1.0/3.0 MB | 74/126 kB
+Progress (2): 1.0/3.0 MB | 79/126 kB
+Progress (2): 1.0/3.0 MB | 79/126 kB
+Progress (2): 1.0/3.0 MB | 83/126 kB
+Progress (2): 1.0/3.0 MB | 83/126 kB
+Progress (2): 1.1/3.0 MB | 83/126 kB
+Progress (2): 1.1/3.0 MB | 87/126 kB
+Progress (2): 1.1/3.0 MB | 91/126 kB
+Progress (2): 1.1/3.0 MB | 91/126 kB
+Progress (2): 1.1/3.0 MB | 91/126 kB
+Progress (2): 1.1/3.0 MB | 96/126 kB
+Progress (2): 1.1/3.0 MB | 96/126 kB
+Progress (2): 1.1/3.0 MB | 96/126 kB
+Progress (2): 1.1/3.0 MB | 96/126 kB
+Progress (2): 1.2/3.0 MB | 96/126 kB
+Progress (2): 1.2/3.0 MB | 96/126 kB
+Progress (2): 1.2/3.0 MB | 112/126 kB
+Progress (2): 1.2/3.0 MB | 112/126 kB
+Progress (2): 1.2/3.0 MB | 112/126 kB
+Progress (2): 1.2/3.0 MB | 112/126 kB
+Progress (2): 1.2/3.0 MB | 112/126 kB
+Progress (2): 1.2/3.0 MB | 126 kB    
+Progress (2): 1.3/3.0 MB | 126 kB
+Progress (2): 1.3/3.0 MB | 126 kB
+Progress (2): 1.3/3.0 MB | 126 kB
+Progress (2): 1.3/3.0 MB | 126 kB
+Progress (2): 1.3/3.0 MB | 126 kB
+Progress (2): 1.3/3.0 MB | 126 kB
+Progress (2): 1.4/3.0 MB | 126 kB
+Progress (2): 1.4/3.0 MB | 126 kB
+Progress (2): 1.4/3.0 MB | 126 kB
+Progress (2): 1.4/3.0 MB | 126 kB
+Progress (3): 1.4/3.0 MB | 126 kB | 0.9/57 kB
+Progress (3): 1.4/3.0 MB | 126 kB | 2.3/57 kB
+Progress (3): 1.4/3.0 MB | 126 kB | 3.6/57 kB
+                                             
+Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.9.1/asm-9.9.1.jar (126 kB at 244 kB/s)
+Progress (2): 1.4/3.0 MB | 5.0/57 kB
+Progress (2): 1.4/3.0 MB | 5.0/57 kB
+Progress (2): 1.4/3.0 MB | 6.4/57 kB
+Progress (2): 1.4/3.0 MB | 7.7/57 kB
+Progress (2): 1.4/3.0 MB | 9.1/57 kB
+Progress (2): 1.4/3.0 MB | 9.1/57 kB
+Progress (2): 1.4/3.0 MB | 10/57 kB 
+Progress (2): 1.4/3.0 MB | 12/57 kB
+Progress (2): 1.4/3.0 MB | 13/57 kB
+Progress (2): 1.4/3.0 MB | 15/57 kB
+Progress (2): 1.4/3.0 MB | 16/57 kB
+Progress (2): 1.5/3.0 MB | 16/57 kB
+Progress (2): 1.5/3.0 MB | 17/57 kB
+Progress (2): 1.5/3.0 MB | 19/57 kB
+Progress (2): 1.5/3.0 MB | 20/57 kB
+Progress (2): 1.5/3.0 MB | 21/57 kB
+Progress (2): 1.5/3.0 MB | 23/57 kB
+Progress (2): 1.5/3.0 MB | 23/57 kB
+Progress (2): 1.5/3.0 MB | 24/57 kB
+Progress (2): 1.5/3.0 MB | 26/57 kB
+Progress (2): 1.5/3.0 MB | 27/57 kB
+Progress (2): 1.5/3.0 MB | 28/57 kB
+Progress (2): 1.5/3.0 MB | 30/57 kB
+Progress (2): 1.5/3.0 MB | 31/57 kB
+Progress (2): 1.5/3.0 MB | 32/57 kB
+Progress (2): 1.5/3.0 MB | 32/57 kB
+Progress (2): 1.5/3.0 MB | 36/57 kB
+Progress (2): 1.5/3.0 MB | 36/57 kB
+Progress (2): 1.5/3.0 MB | 40/57 kB
+Progress (2): 1.5/3.0 MB | 40/57 kB
+Progress (2): 1.5/3.0 MB | 45/57 kB
+Progress (2): 1.5/3.0 MB | 49/57 kB
+Progress (2): 1.5/3.0 MB | 49/57 kB
+Progress (2): 1.5/3.0 MB | 53/57 kB
+Progress (2): 1.5/3.0 MB | 57 kB   
+Progress (2): 1.6/3.0 MB | 57 kB
+Progress (2): 1.6/3.0 MB | 57 kB
+Progress (2): 1.6/3.0 MB | 57 kB
+Progress (2): 1.6/3.0 MB | 57 kB
+Progress (2): 1.6/3.0 MB | 57 kB
+                                
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/1.5.2/plexus-java-1.5.2.jar (57 kB at 104 kB/s)
+Progress (1): 1.6/3.0 MB
+Progress (1): 1.7/3.0 MB
+Progress (1): 1.7/3.0 MB
+Progress (1): 1.7/3.0 MB
+Progress (1): 1.7/3.0 MB
+Progress (1): 1.7/3.0 MB
+Progress (1): 1.7/3.0 MB
+Progress (1): 1.8/3.0 MB
+Progress (1): 1.8/3.0 MB
+Progress (1): 1.8/3.0 MB
+Progress (1): 1.8/3.0 MB
+Progress (1): 1.8/3.0 MB
+Progress (1): 1.8/3.0 MB
+Progress (1): 1.9/3.0 MB
+Progress (1): 1.9/3.0 MB
+Progress (1): 1.9/3.0 MB
+Progress (1): 1.9/3.0 MB
+Progress (1): 1.9/3.0 MB
+Progress (1): 1.9/3.0 MB
+Progress (1): 1.9/3.0 MB
+Progress (1): 2.0/3.0 MB
+Progress (1): 2.0/3.0 MB
+Progress (1): 2.0/3.0 MB
+Progress (1): 2.0/3.0 MB
+Progress (1): 2.0/3.0 MB
+Progress (1): 2.0/3.0 MB
+Progress (1): 2.1/3.0 MB
+Progress (1): 2.1/3.0 MB
+Progress (1): 2.1/3.0 MB
+Progress (1): 2.1/3.0 MB
+Progress (1): 2.1/3.0 MB
+Progress (1): 2.1/3.0 MB
+Progress (1): 2.2/3.0 MB
+Progress (1): 2.2/3.0 MB
+Progress (1): 2.2/3.0 MB
+Progress (1): 2.2/3.0 MB
+Progress (1): 2.2/3.0 MB
+Progress (1): 2.2/3.0 MB
+Progress (1): 2.3/3.0 MB
+Progress (1): 2.3/3.0 MB
+Progress (1): 2.3/3.0 MB
+Progress (1): 2.3/3.0 MB
+Progress (1): 2.3/3.0 MB
+Progress (1): 2.3/3.0 MB
+Progress (1): 2.4/3.0 MB
+Progress (1): 2.4/3.0 MB
+Progress (1): 2.4/3.0 MB
+Progress (1): 2.4/3.0 MB
+Progress (1): 2.4/3.0 MB
+Progress (1): 2.4/3.0 MB
+Progress (1): 2.5/3.0 MB
+Progress (1): 2.5/3.0 MB
+Progress (1): 2.5/3.0 MB
+Progress (1): 2.5/3.0 MB
+Progress (1): 2.5/3.0 MB
+Progress (1): 2.5/3.0 MB
+Progress (1): 2.5/3.0 MB
+Progress (1): 2.6/3.0 MB
+Progress (1): 2.6/3.0 MB
+Progress (1): 2.6/3.0 MB
+Progress (1): 2.6/3.0 MB
+Progress (1): 2.6/3.0 MB
+Progress (1): 2.6/3.0 MB
+Progress (1): 2.7/3.0 MB
+Progress (1): 2.7/3.0 MB
+Progress (1): 2.7/3.0 MB
+Progress (1): 2.7/3.0 MB
+Progress (1): 2.7/3.0 MB
+Progress (1): 2.7/3.0 MB
+Progress (1): 2.8/3.0 MB
+Progress (1): 2.8/3.0 MB
+Progress (1): 2.8/3.0 MB
+Progress (1): 2.8/3.0 MB
+Progress (1): 2.8/3.0 MB
+Progress (1): 2.8/3.0 MB
+Progress (1): 2.9/3.0 MB
+Progress (1): 2.9/3.0 MB
+Progress (1): 2.9/3.0 MB
+Progress (1): 2.9/3.0 MB
+Progress (1): 2.9/3.0 MB
+Progress (1): 2.9/3.0 MB
+Progress (1): 3.0/3.0 MB
+Progress (1): 3.0 MB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-shared-utils/3.5.5/surefire-shared-utils-3.5.5.jar (3.0 MB at 3.5 MB/s)
+[INFO] Tests are skipped.
+[INFO] 
+[INFO] --- jar:3.4.2:jar (default-jar) @ FinanceApplication ---
+[INFO] Building jar: C:\Users\sagar\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\FinanceApplication\target\FinanceApplication-0.0.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- spring-boot:4.0.5:repackage (repackage) @ FinanceApplication ---
+[INFO] Replacing main artifact C:\Users\sagar\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\FinanceApplication\target\FinanceApplication-0.0.1-SNAPSHOT.jar with repackaged archive, adding nested dependencies in BOOT-INF/.
+[INFO] The original artifact has been renamed to C:\Users\sagar\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\FinanceApplication\target\FinanceApplication-0.0.1-SNAPSHOT.jar.original
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  18.369 s
+[INFO] Finished at: 2026-04-06T14:28:01+05:30
+[INFO] ------------------------------------------------------------------------
